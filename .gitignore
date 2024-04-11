@@ -1,0 +1,15 @@
+.DS_Store
+
+.vs/
+.vscode/
+
+*.slo
+*.lo
+*.o
+*.obj
+
+*.exe
+*.out
+*.app
+
+cmake-build-*/
