@@ -1,4 +1,4 @@
-# Cached Persistent Pointer Library
+# Cached Persistent Pointer
 
 ## Overview
 This library provides an implementation of a cache-aware, persistent pointer system (`pers_ptr`) for C++ applications. It is designed to handle objects in memory with efficient caching and eviction policies. The library uses template parameters to allow for customizable value types, arity, and eviction policies.
